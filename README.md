@@ -2,7 +2,7 @@
 German Patcher for TheFisher Online
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rp3cYnd/launcher.png" alt="launcher" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3NrDZnD/launcher.png" alt="launcher" border="0"></a>
 
 
 Diese kleine Tool ist ein Automatischer Patcher für das Spiel "TheFisher Online". 
