@@ -2,7 +2,7 @@
 German Patcher for TheFisher Online
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/CJh6qfN/launcher.png" alt="launcher" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rp3cYnd/launcher.png" alt="launcher" border="0"></a>
 
 
 Diese kleine Tool ist ein Automatischer Patcher für das Spiel "TheFisher Online". 
@@ -18,5 +18,14 @@ Changelog #06.04.2020
 - Spiel kann direkt über das Tool gestartet werden
 - Fortschritt Balken hinzugefügt
 - Tool auf Deutsch umgestellt
+
+Changelog #07.04.2020
+
+- Patchlog angefügt
+- Design technisch überarbeitet
+- Update Information hinzugefügt
+- Icon Cleaner gemacht
+- /resources Ordner entfernt der vorher erstellt wurden ist
+
 
 
