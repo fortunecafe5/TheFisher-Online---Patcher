@@ -2,8 +2,7 @@
 German Patcher for TheFisher Online
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3NrDZnD/launcher.png" alt="launcher" border="0"></a>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/r73qHQz/launcher.png" alt="launcher" border="0"></a>
 
 Diese kleine Tool ist ein Automatischer Patcher für das Spiel "TheFisher Online". 
 Aber dieses Tool wäre nichts ohne die Arbeit von "nettraxx" (https://github.com/nettraxx/tfo), da sich das Tool die Datein aus seiner GitHub
