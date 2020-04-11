@@ -27,5 +27,12 @@ Changelog #07.04.2020
 - Icon Cleaner gemacht
 - /resources Ordner entfernt der vorher erstellt wurden ist
 
+Changelog #11.04.2020
+
+- Der Bait Guide von MadMan66 wurde unten verlinkt
+- ein kleiner Bug wurde behoben
+
+
+
 
 
