@@ -1,0 +1,33 @@
+#######################################################
+##        TheFisher Online Deutsch Patcher           ##
+##            Entwickelt by Fortunecafe5             ##
+#######################################################
+
+Hinweis: Unter manchen Antivirus Softwares schlägt dieses Tool als Virus an. // Es ist keiner :-)
+Darum musst du das Programm in deinem Antiviren Programm Whitelisten.
+
+Kaspersky Total Security
+
+1. Öffnen Sie das Einstellungsfenster von Kaspersky Total Security.
+2. Wechseln Sie im Fenster Einstellungen zum Abschnitt Erweitert und klicken Sie auf Gefahren und Ausnahmen.  
+3. Klicken Sie im Fenster Einstellungen für Bedrohungen und Ausnahmen auf den Link Vertrauenswürdige Programme anzeigen.
+4. Klcken Sie im Fenster Vertrauenswürdige Programme auf die Schaltfläche Hinzufügen.
+5. Geben Sie die ausführbare Datei des vertrauenswürdigen Programms an, indem Sie auf den Link Durchsuchen klicken oder das Programm aus der Liste laufender Programme wählen.
+6. Legen Sie im Fenster Ausnahmen für das Programm die Anwendungsparameter für das Regel fest, indem Sie die erforderlichen Kontrollkästchen aktivieren (eigentlich alle weil wir wollen es ja zulassen)
+7. Klicken Sie im Fenster Ausnahmen für das Programm auf die Schaltfläche Hinzufügen.
+8. Fertig
+
+McAfee-GW-Edition
+
+1. Öffnen Sie Ihre McAfee-Anwendung.
+2. Klicken Sie auf Web- und E-Mail-Schutz.
+3. Klicken Sie auf  Firewall.
+4. Klicken Sie auf den Funktionsbereich Internetverbindungen für Programme.
+
+HINWEIS: Je nach Version der installierten McAfee-Software heißt diese Option möglicherweise Programmberechtigungen.
+ 
+5. Blättern Sie nach unten, und klicken Sie auf Hinzufügen.
+6. Klicken Sie auf Durchsuchen, um die Konfigurationsdatei zu suchen, die Sie hinzufügen möchten.
+7. Wählen Sie die Anwendung aus, und klicken Sie auf Öffnen.
+8. Legen Sie den gewünschten Zugriffstyp unter Verwendung der Optionen im Drop-down-Menü Zugriff fest.
+9. Klicken Sie auf Speichern.
