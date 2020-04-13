@@ -31,7 +31,9 @@ Changelog #11.04.2020
 - Der Bait Guide von MadMan66 wurde unten verlinkt
 - ein kleiner Bug wurde behoben
 
+Changelog #13.04.2020
 
+- Updater hinzugefügt
 
 
 
